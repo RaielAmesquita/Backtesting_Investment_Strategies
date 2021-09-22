@@ -17,7 +17,9 @@ Strategies:
 -Buy and Hold (Basic Strategy - passive): Initially Investing into DJI and do nothing (Position: +1 on any given day)
 
 -Simple Momentum (active Strategy to be tested):
+
 a) Investing (+1) into DJI tomorrow if today´s return was positive
+
 b) Short selling (-1) DJI tomorrow if today´s return was negative
 
 
@@ -27,7 +29,9 @@ Strategies:
 -Buy and Hold (Basic Strategy): Initially Investing into DJI and do nothing (Position: +1 on all days)
 
 -Simple Contrarian (Strategy to be tested):
+
 a) Short Selling (-1) DJI tomorrow if today´s return was positive
+
 b) Investing (+1) into DJI tomorrow if today´s return was negative
 
 
@@ -37,5 +41,7 @@ Strategies:
 -Buy and Hold (Basic Strategy): Initially Investing into DJI and do nothing (Position: +1 on all days)
 
 -SMA Crossover (Momentum) (Strategy to be tested):
+
 a) Investing (+1): SMA50 > SMA200
+
 b) Short Selling (-1): SMA50 < SMA200
